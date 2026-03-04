@@ -42,12 +42,15 @@ The system demonstrates how machine learning can be used for early-stage mental 
 Text Input
 
 ↓
+
 TF-IDF Vectorization (Unigram + Bigram)
 
 ↓
+
 Multinomial Naive Bayes
 
 ↓
+
 Emotion Prediction + Probability Output
 
 
