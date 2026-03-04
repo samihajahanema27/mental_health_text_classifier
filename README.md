@@ -40,10 +40,13 @@ The system demonstrates how machine learning can be used for early-stage mental 
 ## 🧠 Model Architecture
 
 Text Input
+
 ↓
 TF-IDF Vectorization (Unigram + Bigram)
+
 ↓
 Multinomial Naive Bayes
+
 ↓
 Emotion Prediction + Probability Output
 
